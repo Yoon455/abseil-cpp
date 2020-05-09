@@ -1,0 +1,507 @@
+<? xml version = "1.0" encoding = "UTF-8"?>
+<rss version = "2.0" xmlns: media = "http://search.yahoo.com/mrss/">
+  <channel>
+    <title> Cyber ​​Tactics </title>
+    <รายละเอียด>
+      <! [CDATA [ในฐานะผู้นำด้านความปลอดภัยได้รับความรับผิดชอบเพิ่มขึ้นสำหรับความปลอดภัยในโลกไซเบอร์ <i> คอลัมนการรักษาความปลอดภัย </i> John McClurg - รองประธานและเอกอัครราชทูต - ใหญ่ - ใหญ่ในสำนักงานความมั่นคงและความเชื่อถือของ Cylance รองประธานฝ่ายความปลอดภัยระดับโลกที่ Honeywell International, Lucent Technologies / Bell
+ห้องปฏิบัติการ - แนะนำผู้บริหารความปลอดภัยระดับองค์กรผ่านมาตรฐานความปลอดภัยบนเครือข่ายกรอบความเสี่ยงและเทคนิคการจัดการ 
+]]>
+    </ รายละเอียด>
+    <link> https://www.securitymagazine.com/rss/2654 </ link>
+    <ภาษา> en-US </ ภาษา>
+    <item>
+      <title> การลดระดับของแรต: การโจมตี APT ข้ามแพลตฟอร์มที่กำหนดเป้าหมายเป็น Linux Windows และ Android </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> ในขณะที่จีนหล่อหลอมบทบาทของตนเป็นหนึ่งในมหาอำนาจที่ยิ่งใหญ่ของโลกมันต้องอาศัยการปฏิบัติการจารกรรมระเบิดเพื่อรับเทคโนโลยีและทรัพย์สินทางปัญญาจากต่างประเทศวางตำแหน่งตัวเองกับอำนาจระหว่างประเทศที่แข่งขันและควบคุมภาพลักษณ์ของตนเอง ทั้งที่บ้านและต่างประเทศ </p>
+]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/92253 </ GUID>
+      <pubDate> วันศุกร์ที่ 01 พฤษภาคม 2020 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/92253-decade-of-the-rats-novel-cross-platform-apt-attacks-targeting-linux-windows-and-android </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2020/May/Cyber-Tactics/SEC0520-cyber-Feat-slide1_900px.jpg?1588087340" type = "image / jpeg" length = "154459" />
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2020/May/Cyber-Tactics/SEC0520-cyber-Feat-slide1_900px.jpg?1588087340" type = "รูปภาพ / jpeg" medium = "image" fileSize = "154459">
+        <media: title type = "plain"> SEC0520-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2020/May/Cyber-Tactics/SEC0520-cyber-slide2_900px.jpg?1588087423" type = "image / jpeg" ปานกลาง = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC0520-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> แสดงที่มา: 3 คำถามที่ต้องถามเมื่อตัดสินใจว่าเรื่องสำคัญอย่างไร </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> การแสดงที่มามักถูกมองว่าเป็นเป้าหมายหลักในการสืบสวนความปลอดภัยทางโลกไซเบอร์ แต่ในขณะที่ John McClurg, CISO ที่ Blackberry ได้ทำการสำรวจที่นี่ควรมีการระบุแหล่งที่มาอย่างชัดเจนเป็นข้อพิจารณารอง # ปรับค่าใช้จ่าย </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/92036 </ GUID>
+      <pubDate> พุธ, 01 เมษายน 2020 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/92036-attribution-3-questions-to-ask-when-deciding-how-it-matters </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2020/April/SEC0420-cyber-Feat-slide1_900px.jpg?1585704237" type = "image / jpeg" length = "23892" / >
+    </ item>
+    <item>
+      <title> กรอบงานสำหรับการวัดความมั่นคงสารสนเทศเป็นฟังก์ชันทางธุรกิจ </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> ในคอลัมน์เดือนธันวาคมของฉันฉันจบลงด้วยการสังเกตว่า CISO หลายแห่งต้องดิ้นรนเมื่อต้องตัดสินใจก่อนแล้วจึงสื่อสารมูลค่าทางธุรกิจของตัวเลือกความปลอดภัยที่นั่น </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/91648 </ GUID>
+      <pubDate> วันอาทิตย์, 02 ก.พ. 2020 00:00:00 -0500 </pubDate>
+      <link> https://www.securitymagazine.com/articles/91648-a-framework-for-measuring-infosec-as-a-business-function </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0220-cyber-Feat-slide1_900px.jpg?1580653432" ประเภท = "image / jpeg" length = "14451134" "/>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0220-cyber-Feat-slide1_900px.jpg?1580653432" ประเภท = "รูปภาพ / jpeg" ปานกลาง = "image" fileSize = "144511">
+        <media: title type = "plain"> Cyber ​​Tactics John McClurg </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0220-cyber-slide2_900px.jpg?1580653519" type = "image / jpeg" ขนาดกลาง " "fileSize =" 49817 ">
+        <media: title type = "plain"> Cyber ​​Tactics John McClurg Headshot </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> คำทำนายปีใหม่: คู่มือยืนต้นสำหรับผู้ที่งงงวย </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> 2020 ประกาศให้ทราบถึงการเปลี่ยนแปลงครั้งสำคัญบางประการที่จะเปลี่ยนความปลอดภัยในโลกไซเบอร์: การโจมตีแรนซัมแวร์, ปัญญาประดิษฐ์, การจดจำใบหน้าและการรักษาความปลอดภัยบนโลกไซเบอร์มือถือ </p>
+]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/91486 </ GUID>
+      <pubDate> พุธ 1 มกราคม 2020 00:00:00 -0500 </pubDate>
+      <link> https://www.securitymagazine.com/articles/91486-new-year-prognostications-a-perennial-guide-for-the-perplexed </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2020/ มกราคม /SEC0120-cyber-Feat-slide1_900px.jpg?1577856489" ประเภท = "image / jpeg" length = "69372" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2020/ มกราคม /SEC0120-cyber-Feat-slide1_900px.jpg?1577856489" type = "image / jpeg" medium = "image "fileSize =" 69372 ">
+        <media: title type = "plain"> SEC0120-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2020/ มกราคม /SEC0120-cyber-slide2_900px.jpg?1577856819" type = "image / jpeg" medium = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC0120-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> ค่าใช้จ่ายในเชิงลึก: ต้นทุนรวมของการควบคุมที่ได้รับการพิจารณาใหม่ </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> กลยุทธ์การป้องกันเชิงลึกคืออะไรและทำไมจึงได้รับการยอมรับว่าเป็นค่าใช้จ่ายในเชิงลึก CISO จะสื่อสารมูลค่าทางธุรกิจของกลยุทธ์นี้ได้อย่างไร </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/91345 </ GUID>
+      <pubDate> วันอาทิตย์ที่ 01 ธันวาคม 2019 00:00:00 -0500 </pubDate>
+      <link> https://www.securitymagazine.com/articles/91345-expense-in-depth-total-cost-of-controls-reconsidered </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/December/SEC1219-cyber-Feat-slide1_900px.jpg?1575134507" type = "image / jpeg" length = "45382" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/December/SEC1219-cyber-Feat-slide1_900px.jpg?1575134507" type = "image / jpeg" medium = "image "fileSize =" 45382 ">
+        <media: title type = "plain"> SEC1219-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/December/SEC1219-cyber-slide2_900px.jpg?1575134655" type = "image / jpeg" medium = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC1219-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> "ความน่าเชื่อถือ" กลับมาอีกครั้ง: วันเกิดของการรับรองความถูกต้องอย่างต่อเนื่อง </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> ปราชญ์ Hericlitus เคยเปิดใช้งาน & ndash; & ldquo; คุณไม่สามารถ & # 39; t ขั้นตอนในแม่น้ำเดียวกันสองครั้ง & rdquo; หมายความว่าไม่มีแนวคิดใดที่คงที่ แต่จะปั่นและพัฒนาอยู่เสมอ </p>
+]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/91201 </ GUID>
+      <pubDate> ศุกร์, 01 พฤศจิกายน 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/91201-trust-revisited-the-birth-of-continuous-authentication </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/Novmeber/SEC1119-cyber-Feat-slide1_900px.jpg?1572612900" type = "image / jpeg" length = "53992" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/Novmeber/SEC1119-cyber-Feat-slide1_900px.jpg?1572612900" ประเภท = "image / jpeg" ปานกลาง "fileSize =" 53992 ">
+        <media: title type = "plain"> SEC1119-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/Novmeber/SEC1119-cyber-slide2_900px.jpg?1572612909" type = "image / jpeg" medium = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC1119-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> AR และ VR: เทคโนโลยีที่สมจริงนำเสนอสถานการณ์ความปลอดภัยทางไซเบอร์เพื่อชีวิต </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> ในขณะที่ VR และ AR มีขนาดที่แตกต่างกันทั้งเพิ่มและเร่งการเรียนรู้จากประสบการณ์ที่สามารถช่วยให้ประจักษ์และเสริมสร้างวัฒนธรรมการรักษาความปลอดภัยทางไซเบอร์ทั่วทั้งอุตสาหกรรม มันเป็นนัยยะทางเทคโนโลยีเช่นนี้ที่จะช่วยขับเคลื่อนการรับรู้ด้านความปลอดภัยทางไซเบอร์สู่สภาวะของการรับรู้จำนวนมาก </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/91016 </ GUID>
+      <pubDate> อ. 01 ต.ค. 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/91016-ar-and-vr-how-immersive-technology-is-bringing-cybersecurity-scenarios-to-life </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/October/SEC1019-cyber-Feat-slide1_900px.jpg?1569927384" type = "image / jpeg" length = "105215" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/October/SEC1019-cyber-Feat-slide1_900px.jpg?1569927384" type = "image / jpeg" medium = "image "fileSize =" 105215 ">
+        <media: title type = "plain"> SEC1019-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/October/SEC1019-cyber-slide2_900px.jpg?1569927497" ประเภท = "image / jpeg" medium = "image" ขนาดไฟล์ = "49817">
+        <media: title type = "plain"> SEC1019-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> ความรู้สึกของความเป็นส่วนตัวขู่อำนาจการป้องกันการจดจำใบหน้า </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> ความรู้สึกวิตกกังวลต่อการจดจำใบหน้าสามารถทำได้หากไม่ถูกตรวจสอบจนถึงจุดที่พวกเขาบ่อนทำลายสามัญสำนึกและความสามารถของเราในการใช้ประโยชน์จากเทคโนโลยีใหม่ในการปกป้องผู้บริสุทธิ์และดำเนินคดีกับผู้กระทำผิด </p>] ]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/90812 </ GUID>
+      <pubDate> วันที่ 02 ก.ย. 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/90812-how-sense-of-privacy-threatens-facial-recognitions-protective-power </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/September/SEC0919-Cyber-Feat-slide1_900px.jpg?1567089025" type = "image / jpeg" length = "108527" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/September/SEC0919-Cyber-Feat-slide1_900px.jpg?1567089025" type = "image / jpeg" ปานกลาง = "ภาพ "fileSize =" 108527 ">
+        <media: title type = "plain"> SEC0919-Cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/September/SEC0919-cyber-slide2_900px.jpg?1567089280" type = "image / jpeg" medium = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC0919-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> พระราชบัญญัติความช่วยเหลือด้านการสื่อสารสำหรับการบังคับใช้กฎหมาย: บทเรียนจากอดีต </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> ในการเดินทางไปออสเตรเลียเมื่อเร็ว ๆ นี้ฉันปรากฏตัวในรายการข่าวเช้าแห่งชาติ ไม่นานจนกว่าโฮสต์จะพยายามให้ฉันมีน้ำหนักในการโต้วาทีที่รุนแรงในสภาของพวกเขา </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/90630 </ GUID>
+      <pubDate> วันที่, 01 ส.ค. 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/90630-the-communications-assistance-for-law-enforcement-act-a-lesson-from-the-past </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/August/SEC0819-Cyber-Feat-slide1_900px.jpg?1564517013" ประเภท = "image / jpeg" length = "131167" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/August/SEC0819-Cyber-Feat-slide1_900px.jpg?1564517013" type = "image / jpeg" medium = "image "fileSize =" 131167 ">
+        <media: title type = "plain"> SEC0819-Cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/August/SEC0819-cyber-slide2_900px.jpg?1564517161" ประเภท = "image / jpeg" medium = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC0819-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> ความเป็นส่วนตัว: อายุบริบท - สร้างความมั่นใจถึงประโยชน์ของการแบ่งปันความเสี่ยงที่มีมากกว่าความเสี่ยง </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> การบรรจบกันของโซเชียลมีเดียอุปกรณ์มือถือดิจิตอลเซ็นเซอร์และเทคโนโลยีที่อิงตามตำแหน่งกำลังสร้างปริมาณข้อมูลที่ไม่เคยมีมาก่อนเกี่ยวกับสังคมและบุคคล </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/90456 </ GUID>
+      <pubDate> วันที่ 1 กรกฎาคม 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/90456-privacy-the-age-of-context-ensuring-the-benefits-of-sharing-outweigh-the-risks </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/July/SEC0719-Cyber-Feat-slide1_900px.jpg?1561958597" type = "image / jpeg" length = "57116" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/July/SEC0719-Cyber-Feat-slide1_900px.jpg?1561958597" type = "image / jpeg" medium = "image "fileSize =" 57116 ">
+        <media: title type = "plain"> SEC0719-Cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/July/SEC0719-cyber-slide2_900px.jpg?1561958765" type = "image / jpeg" medium = "image" ขนาดไฟล์ = "49817">
+        <media: title type = "plain"> SEC0719-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> ปัญญาประดิษฐ์เปลี่ยนแปลงทุกอย่างในอุตสาหกรรมความปลอดภัย </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [ในช่วงเวลาหลายปีที่ Dell เราจะแบ่งปันสิ่งที่เราค้นพบโดยบังเอิญในวิธีการอ่านที่ดี]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/90298 </ GUID>
+      <pubDate> วันเสาร์ที่ 01 มิถุนายน 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/90298-artificial-intelligence-changes-everything-in-the-security-industry </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/June/SEC0619-Cyber-Feat-slide1_900px.jpg?1559223898" type = "image / jpeg" length = "89824" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/June/SEC0619-Cyber-Feat-slide1_900px.jpg?1559223898" type = "image / jpeg" medium = "image "fileSize =" 89824 ">
+        <media: title type = "plain"> SEC0619-Cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/June/SEC0619-cyber-slide2_900px.jpg?1559223908" type = "image / jpeg" medium = "image" ขนาดไฟล์ = "49817">
+        <media: title type = "plain"> SEC0619-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> การเรียนรู้ของเครื่อง: มันทำงานอย่างไร </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [การเรียนรู้ของเครื่องใช้ประโยชน์จากกระบวนการสี่เฟส: การรวบรวมการสกัดการเรียนรู้และการจำแนก]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/90173 </ GUID>
+      <pubDate> พุธ 1 พฤษภาคม 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/90173-machine-learning-how-it-works </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/May/SEC0519-Cyber-Feat-slide1_900px.jpg?1556563530" type = "image / jpeg" length = "68667" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/May/SEC0519-Cyber-Feat-slide1_900px.jpg?1556563530" type = "image / jpeg" medium = "image "fileSize =" 68667 ">
+        <media: title type = "plain"> SEC0519-Cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/May/SEC0519-cyber-slide2_900px.jpg?1556565015" type = "image / jpeg" medium = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC0519-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> บทบาทของการเรียนรู้ของเครื่องใน Cyber ​​security </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> Rene Descartes ปราชญ์และนักคณิตศาสตร์เขียน: & ldquo; คณิตศาสตร์เป็นเครื่องมือที่ทรงพลังยิ่งกว่าความรู้อื่น ๆ ที่มนุษย์ได้รับมาจากเรา & rdquo; </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/90064 </ GUID>
+      <pubDate> วันที่ 1 เมษายน 2019 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/90064-the-role-of-machine-learning-in-cybersecurity </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/April/SEC0419-cyber-feat-slide1_900px.jpg?1554092539" ประเภท = "image / jpeg" length = "51777" >
+    </ item>
+    <item>
+      <title> การจับสายลับ: การเกิดขึ้นของปัญญาประดิษฐ์ </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> เราเพิ่งเฉลิมฉลองวันประธานาธิบดี ชาวบ้านเล่าว่าในช่วงการปฏิวัติอเมริกาจอร์จวอชิงตันได้รับการทาบทามจากสมาชิกสื่อมวลชนที่ถามว่า: & ldquo; George! จอร์จ! อะไรทำให้คุณตื่นขึ้นมาตอนกลางคืน & rdquo; </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/89898 </ GUID>
+      <pubDate> ศุกร์, 01 มีนาคม 2019 00:00:00 -0500 </pubDate>
+      <link> https://www.securitymagazine.com/articles/89898-to-catch-a-spy-the-emergence-of-artificial-intelligence </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/March/SEC0319-Cyber-Feat-slide1_900px.jpg?1550785582" type = "image / jpeg" length = "149009" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/March/SEC0319-Cyber-Feat-slide1_900px.jpg?1550785582" type = "image / jpeg" medium = "image "fileSize =" 149009 ">
+        <media: title type = "plain"> SEC0319-Cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/March/SEC0319-cyber-slide2_900px.jpg?1550785613" type = "image / jpeg" medium = "image" fileSize = "49817">
+        <media: title type = "plain"> SEC0319-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> คำทำนายของ Groundhog Year The Year Ahead </title>
+      <เขียน> </ ผู้เขียน>
+      <รายละเอียด>
+        <! [CDATA [<p> การสิ้นสุดในแต่ละปีนั้นเต็มไปด้วยการคาดการณ์ว่าสิ่งที่ปีต่อไปมีความหมาย ในทางปฏิบัตินี้ภาคความปลอดภัยไม่ใช่คนแปลกหน้า </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/89806 </ GUID>
+      <pubDate> วันศุกร์ที่ 01 ก.พ. 2019 00:00:00 -0500 </pubDate>
+      <link> https://www.securitymagazine.com/articles/89806-prognostications-of-a-groundhog-the-year-ahead </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2019/F กุมภาพันธ์/SEC0219-cyber-Feat-slide1_900px.jpg?1549028734" type = "image / jpeg" length = "27347" >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/F กุมภาพันธ์/SEC0219-cyber-Feat-slide1_900px.jpg?1549028734" type = "image / jpeg" medium = "image "fileSize =" 27347 ">
+        <media: title type = "plain"> SEC0219-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2019/F กุมภาพันธ์/SEC0219-cyber-slide2_900px.jpg?1549028785" type = "image / jpeg" medium = "image" ขนาดไฟล์ = "49817">
+        <media: title type = "plain"> SEC0219-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> ใครรับผิดชอบเรื่องความปลอดภัยบนคลาวด์ </title>
+      <author> steven.chabinsky@whitecase.com (Steven Chabinsky) </author>
+      <รายละเอียด>
+        <! [CDATA [<p> หาก บริษัท ของคุณต้องพึ่งพาผู้ให้บริการคลาวด์ของบุคคลที่สามเพื่อสนับสนุนหรือส่งมอบบริการหลักหรือเพื่อปกป้องข้อมูลที่ละเอียดอ่อนจำเป็นอย่างยิ่งที่จะต้องเข้าใจว่าการรักษาความปลอดภัยบนคลาวด์นั้นเป็นความรับผิดชอบร่วมกัน </p>] ]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/89641 </ GUID>
+      <pubDate> วันเสาร์ที่ 01 ธันวาคม 2018 00:00:00 -0500 </pubDate>
+      <link> https://www.securitymagazine.com/articles/89641-whos-responsible-for-cloud-security </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2018/December/SEC1218-Cyber-Feat-slide1_900px.jpg?1543615695" type = "image / jpeg" length = "105371" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2018/December/SEC1218-Cyber-Feat-slide1_900px.jpg?1543615695" type = "image / jpeg" ปานกลาง = "ภาพ "fileSize =" 105371 ">
+        <media: title type = "plain"> SEC1218-Cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2018/December/SEC1218-cyber-slide2_900px.jpg?1543615787" type = "image / jpeg" medium = "image" fileSize = "52532">
+        <media: title type = "plain"> SEC1218-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> ล้างข้อมูลล้าง & amp; ทำลาย: เมื่อต้องกำจัดข้อมูลส่วนที่ 2 </title>
+      <author> steven.chabinsky@whitecase.com (Steven Chabinsky) </author>
+      <รายละเอียด>
+        <! [CDATA [<p> ภารกิจของคุณหากคุณตัดสินใจที่จะยอมรับมันคือการใช้โปรแกรมฆ่าเชื้อข้อมูลเสียง </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/89540 </ GUID>
+      <pubDate> พฤ., 01 พ.ย. 2018 00:10:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/89540-clear-purge-destroy-when-data-must-be-eliminated-part-2 </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2018/November/SEC1118-cyber-Feat-slide1_900px.jpg?1541040547" type = "image / jpeg" length = "74205" >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2018/November/SEC1118-cyber-Feat-slide1_900px.jpg?1541040547" type = "image / jpeg" medium = "image "fileSize =" 74205 ">
+        <media: title type = "plain"> SEC1118-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2018/ พฤศจิกายน/SEC1118-cyber-slide2_900px.jpg?1541040570" type = "image / jpeg" medium = "image" fileSize = "52532">
+        <media: title type = "plain"> SEC1118-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> ล้างข้อมูลล้าง & amp; ทำลาย: เมื่อต้องกำจัดข้อมูล </title>
+      <author> steven.chabinsky@whitecase.com (Steven Chabinsky) </author>
+      <รายละเอียด>
+        <! [CDATA [<p> แม้ในขั้นพื้นฐานที่สุดโปรแกรมรักษาความปลอดภัยข้อมูลก็มีความซับซ้อนและมีการผสมผสานระหว่างการควบคุมที่ตรวจจับป้องกันและตอบสนองต่อการสูญหายของข้อมูล </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/89455 </ GUID>
+      <pubDate> วันที่ 1 ตุลาคม 2018 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/89455-clear-purge-destroy-when-data-must-be-eliminated </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2018/October/SEC1018-cyber-Feat-slide1_900px.jpg?1538170750" type = "image / jpeg" length = "38501" / >
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2018/October/SEC1018-cyber-Feat-slide1_900px.jpg?1538170750" type = "image / jpeg" medium = "image "fileSize =" 38501 ">
+        <media: title type = "plain"> SEC1018-cyber-Feat-slide1_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+      <media: content url = "https://www.securitymagazine.com/ext/resources/Issues/2018/October/SEC1018-cyber-slide2_900px.jpg?1538170759" type = "image / jpeg" medium = "image" fileSize = "52532">
+        <media: title type = "plain"> SEC1018-cyber-slide2_900px </ media: title>
+      </ สื่อ: เนื้อหา>
+    </ item>
+    <item>
+      <title> โปรแกรม Bug Bounty: แนวปฏิบัติที่ดีที่สุดที่ออกมา </title>
+      <author> steven.chabinsky@whitecase.com (Steven Chabinsky) </author>
+      <รายละเอียด>
+        <! [CDATA [<p> ต้องการตรวจหาและแก้ไขช่องโหว่ไซเบอร์ในเชิงรุกใช่หรือไม่ อาจถึงเวลาที่จะระดมสติปัญญาของคุณผ่านโปรแกรมรับรางวัลข้อบกพร่อง & hellip; </p>]]>
+      </ รายละเอียด>
+      <GUID> http://www.securitymagazine.com/articles/89372 </ GUID>
+      <pubDate> วันเสาร์ที่ 01 กันยายน 2018 00:00:00 -0400 </pubDate>
+      <link> https://www.securitymagazine.com/articles/89372-bug-bounty-programs-an-emerging-best-practice </ link>
+      <enclosure url = "https://www.securitymagazine.com/ext/resources/Issues/2018/September/SEC0918-cyber-feature-slide1_900px.jpg?1535763136" ประเภท = "image / jpeg" length = "147498" >
+      <media:content url="https://www.securitymagazine.com/ext/resources/Issues/2018/September/SEC0918-cyber-feature-slide1_900px.jpg?1535763136" type="image/jpeg" medium="image" fileSize="147498">
+        <media:title type="plain">SEC0918-cyber-feature-slide1_900px</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Issues/2018/September/SEC0918-cyber-slide2_900px.jpg?1535763213" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">SEC0918-cyber-slide2_900px</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Taking AIM at “Reasonable” Cybersecurity</title>
+      <description>
+        <![CDATA[<p>After a data breach, regulators strive to evaluate if an enterprise fulfilled &quot;reasonable&quot; cybersecurity standards&hellip; without defining what &quot;reasonable&quot; looks like.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/89275</guid>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      <link>https://www.securitymagazine.com/articles/89275-taking-aim-at-reasonable-cybersecurity</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/Issues/2018/August/SEC0818-cyber-feat-slide1_900px.jpg?1533138007" type="image/jpeg" length="90326"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Issues/2018/August/SEC0818-career-feat-slide1_900px1.jpg?1533136243" type="image/jpeg" medium="image" fileSize="172413">
+        <media:title type="plain">SEC0818-career-feat-slide1_900p</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Issues/2018/August/SEC0818-cyber-slide2_900px.jpg?1533138140" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">SEC0818-cyber-feat-slide2_900</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Managing Supply Chain Risk</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[<p align="left">When NIST recently updated its Cybersecurity Framework, it added only one new core category: Supply Chain Risk Management (SCRM). Placed within the Framework&rsquo;s &ldquo;Identify&rdquo; function, SCRM encompasses, but typically extends beyond, traditional vendor management approaches. That&rsquo;s because the supply chain typically extends beyond suppliers to include other external parties, such as integrators and even third-party communications providers.</p>]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/89191</guid>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
+      <link>https://www.securitymagazine.com/articles/89191-managing-supply-chain-risk</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/Issues/2018/July/SEC0718-cyber-feat-slide1_900px.jpg?1530547525" type="image/jpeg" length="162775"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Issues/2018/July/SEC0718-cyber-slide2_900px.jpg?1530550860" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics - Steven Chabinsky- SEC</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Issues/2018/July/SEC0718-cyber-feat-slide1_900px.jpg?1530547525" type="image/jpeg" medium="image" fileSize="162775">
+        <media:title type="plain">Cyber Tactics - july 2018- SEC</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>5 Things You Need to Know about the Revised NIST Cybersecurity Framework</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[To get you quickly up to speed, here’s a list of the five most significant Framework clarifications and revisions.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/89064</guid>
+      <pubDate>Fri, 01 Jun 2018 07:04:00 -0400</pubDate>
+      <link>https://www.securitymagazine.com/articles/89064-things-you-need-to-know-about-the-revised-nist-cybersecurity-framework</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2018/June/Revised-NIST-Cyersecurity-Framework-Seurity-Magazine.jpg?1557758861" type="image/jpeg" length="43454"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0615-tactics-feature-slide_900px.jpg?1472154199" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics Chabinsky Default</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2018/June/Revised-NIST-Cyersecurity-Framework-Seurity-Magazine.jpg?1557758861" type="image/jpeg" medium="image" fileSize="43454">
+        <media:title type="plain">Revised NIST Cyber Security Framework</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Is Your Vendor Risk Management Program Working?</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[Companies remain on the hook for ensuring their vendors are up to task when it comes to cybersecurity, privacy compliance and continuity of operations. This checklist can help determine the maturity of your vendor risk management program.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88836</guid>
+      <pubDate>Sun, 01 Apr 2018 07:08:00 -0400</pubDate>
+      <link>https://www.securitymagazine.com/articles/88836-is-your-vendor-risk-management-program-working</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2018/April/Vendor-Risk-Management-Program-Security-Magazine.jpg?1521736467" type="image/jpeg" length="72811"/>
+    </item>
+    <item>
+      <title>Please Forget to Change Your Password Every 90 Days</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[Some of the most basic tenets of password account management have failed, leaving us with a dreadful combination of poor user experience and inadequate security.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88771</guid>
+      <pubDate>Thu, 01 Mar 2018 07:02:00 -0500</pubDate>
+      <link>https://www.securitymagazine.com/articles/88771-please-forget-to-change-your-password-every-90-days</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2018/March/Forget-Change-Password-Security-Magazine.jpg?1519756386" type="image/jpeg" length="38569"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0615-tactics-feature-slide_900px.jpg?1472154199" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics Chabinsky Default</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2018/March/Forget-Change-Password-Security-Magazine.jpg?1519756386" type="image/jpeg" medium="image" fileSize="38569">
+        <media:title type="plain">Please Forget</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Multi-Factor Authentication Should Be HARD</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[How difficult is it for a computer (or a complete stranger) to validate the true identity of a person they don’t know? Very difficult, it turns out, especially when others may be trying to imitate them.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88656</guid>
+      <pubDate>Thu, 01 Feb 2018 07:02:00 -0500</pubDate>
+      <link>https://www.securitymagazine.com/articles/88656-multi-factor-authentication-should-be-hard</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2018/February/Multi-Factor-Authentication-Security-Magazine.jpg?1516989002" type="image/jpeg" length="89872"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0615-tactics-feature-slide_900px.jpg?1472154199" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics Chabinsky Default</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2018/February/Multi-Factor-Authentication-Security-Magazine.jpg?1516989002" type="image/jpeg" medium="image" fileSize="89872">
+        <media:title type="plain">Multi-Factor Authentication</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>The Top 12 Practices of Secure Coding</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[The list provides a quick summary of the top 12 security practices to mitigate risks from internal and third-party software.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88600</guid>
+      <pubDate>Mon, 01 Jan 2018 07:04:00 -0500</pubDate>
+      <link>https://www.securitymagazine.com/articles/88600-the-top-12-practices-of-secure-coding</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2018/January/Top-12-Practices-Secure-Coding-Security-Magazine.jpg?1513958198" type="image/jpeg" length="116519"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0615-tactics-feature-slide_900px.jpg?1472154199" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics Chabinsky Default</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2018/January/Top-12-Practices-Secure-Coding-Security-Magazine.jpg?1513958198" type="image/jpeg" medium="image" fileSize="116519">
+        <media:title type="plain">Top 12 Practices</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Dear Encryption, We're Worried About Your Future</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[Encryption, my friend, there’s a lot riding on your shoulders. It’s true you always bounce back, but for how long?]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88527</guid>
+      <pubDate>Fri, 01 Dec 2017 07:10:00 -0500</pubDate>
+      <link>https://www.securitymagazine.com/articles/88527-dear-encryption-were-worried-about-your-future</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2017/December/Encryption-Future-Security-Magazine.jpg?1511802440" type="image/jpeg" length="91044"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0615-tactics-feature-slide_900px.jpg?1472154199" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics Chabinsky Default</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2017/December/Encryption-Future-Security-Magazine.jpg?1511802440" type="image/jpeg" medium="image" fileSize="91044">
+        <media:title type="plain">Encryption Future</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Traveling with Technology: An Information Security Guide</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[Traveling abroad with technology brings with it certain risks and may subject you to government surveillance in ways that are different from domestic travel. According to the FBI, you shouldn’t expect privacy in most countries outside the United States. Your data is less secure when you travel.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88434</guid>
+      <pubDate>Wed, 01 Nov 2017 07:03:00 -0400</pubDate>
+      <link>https://www.securitymagazine.com/articles/88434-traveling-with-technology-an-information-security-guide</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2017/November/traveling-with-technology-security-magazine-november-2017.jpg?1508879638" type="image/jpeg" length="53847"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0615-tactics-feature-slide_900px.jpg?1472154199" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics Chabinsky Default</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2017/November/traveling-with-technology-security-magazine-november-2017.jpg?1508879638" type="image/jpeg" medium="image" fileSize="53847">
+        <media:title type="plain">Traveling with Technology</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Understanding the Distinct and Dependent Roles of Data, Privacy and Cybersecurity Professionals</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[Taking advantage of technology and digitization involves more than business strategy. It requires strong data governance principles which, among other things, must align the functional demands of an organization’s cybersecurity, privacy and information management teams.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88343</guid>
+      <pubDate>Sun, 01 Oct 2017 07:02:00 -0400</pubDate>
+      <link>https://www.securitymagazine.com/articles/88343-understanding-the-distinct-and-dependent-roles-of-data-privacy-and-cybersecurity-professionals</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2017/October/SEC1017-cyber-feat-slide1_900px.jpg?1506453678" type="image/jpeg" length="116772"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/Default-images/Responsive-Defaults/SEC0615-tactics-feature-slide_900px.jpg?1472154199" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">Cyber Tactics Chabinsky Default</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2017/October/SEC1017-cyber-feat-slide1_900px.jpg?1506453678" type="image/jpeg" medium="image" fileSize="116772">
+        <media:title type="plain">Cyber Tactics October 2017</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>How New York is Shaking Up Cybersecurity</title>
+      <author>steven.chabinsky@whitecase.com (Steven Chabinsky)</author>
+      <description>
+        <![CDATA[Something potentially groundbreaking is happening in New York, and its impact is being felt globally. Still, if you’re not in the financial services industry, and specifically regulated by the New York State Department of Financial Services (NYDFS), you may have missed it. What is this change? In short, it’s the first of what may become a wave of stringent state cybersecurity regulations that impose “minimum standards” on industry.]]>
+      </description>
+      <guid>http://www.securitymagazine.com/articles/88286</guid>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
+      <link>https://www.securitymagazine.com/articles/88286-how-new-york-is-shaking-up-cybersecurity</link>
+      <enclosure url="https://www.securitymagazine.com/ext/resources/SEC/2017/Sept/SEC0917-cyber-feat-slide1_900px.jpg?1504109043" type="image/jpeg" length="126689"/>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2017/Sept/SEC0917-cyber-feat-slide1_900px.jpg?1504109043" type="image/jpeg" medium="image" fileSize="126689">
+        <media:title type="plain">How New York is Shaking Up Cybersecurity</media:title>
+      </media:content>
+      <media:content url="https://www.securitymagazine.com/ext/resources/SEC/2017/Sept/SEC0917-cyber-slide2_900px.jpg?1504040618" type="image/jpeg" medium="image" fileSize="52532">
+        <media:title type="plain">How New York is Shaking Up Cybersecurity Author</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>
